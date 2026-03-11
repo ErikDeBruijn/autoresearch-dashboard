@@ -4,6 +4,8 @@ Web-based results explorer for [karpathy/autoresearch](https://github.com/karpat
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue) ![FastAPI](https://img.shields.io/badge/fastapi-latest-green)
 
+![Dashboard screenshot](screenshot.png)
+
 ## Features
 
 - **val_bpb chart** — scatter plot of all experiments with best-so-far trendline
